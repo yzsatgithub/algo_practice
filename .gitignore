@@ -1,3 +1,5 @@
+.gitignore
+# #### C++ begins ####
 # Prerequisites
 *.d
 
