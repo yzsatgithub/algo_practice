@@ -154,7 +154,7 @@ void merge(int* from, int* to, int begin, int middle, int end)
 // Non-recursive Implementation.  The index starts from 0.
 void MergeSort2(int* a, int nlength)
 {
-    int to[nlength];     //存放归并中间结果。　　为什么不是nlength+1呢？
+    int to[nlength+1];     //存放归并中间结果。　　为什么不是nlength+1呢？
     int k=1;
     while(k<nlength)
     {
