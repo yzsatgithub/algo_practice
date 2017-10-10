@@ -41,7 +41,7 @@ void Test(const char* testName, int* pData, int nlength)
     cout << endl;
 }
 
-// non-recursive implementation
+// To test non-recursive implementation
 void _2Test(const char* testName, int* pData, int nlength)
 {
     if(testName != NULL)
