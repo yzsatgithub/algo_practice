@@ -9,6 +9,12 @@
 
 using namespace std;
 
+/*
+ * 题目：在第一个字符串（text）中找出第二个字符串（name）出现的个数。（可能连续出现。）
+ *
+ */
+
+
 int getNumber(const char* text, const char* name)
 {
     if(!text)
