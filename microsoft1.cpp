@@ -11,7 +11,15 @@ using namespace std;
 
 /*
  * 题目：在第一个字符串（text）中找出第二个字符串（name）出现的个数。（可能连续出现。）
+ * 
+ * e.g.
  *
+ * input:
+ * TimsdjfkjasdklfjlaTim
+ * Tim
+ *
+ * output:
+ * 2
  */
 
 

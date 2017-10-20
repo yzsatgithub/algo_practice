@@ -10,6 +10,13 @@
 
 using namespace std;
 
+/*
+ *题目：我要查一下题目内容
+
+ 大致是，取得一个集合的所有子集，子集中的最大值和最小值做位与运算X_i，返回所有子集里最大的这个位与运算结果。
+ *
+ *
+ */ 
 
 vector<vector<int> > getSubsets(vector<int>& nums)
 {

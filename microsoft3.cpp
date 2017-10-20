@@ -8,6 +8,16 @@
 #include <cstring>
 
 using namespace std;
+/*
+ *题目： 我要查一下
+
+    大致是，输入士兵总数，动作总数，规定一个动作内容，求最终在querypos出的士兵的状态
+ *
+ *
+ *
+ */ 
+
+
 
 int getID(int N, int numActions, int querypos, int** actions)
 {
