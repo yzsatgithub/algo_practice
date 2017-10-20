@@ -20,6 +20,9 @@ using namespace std;
  *
  * output:
  * 2
+ *
+ *
+ * 印象里，我这写法通过60%左右。
  */
 
 
